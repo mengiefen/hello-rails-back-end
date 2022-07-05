@@ -3,7 +3,7 @@
 
 # Hello Rails Front End
 
-This rails app is intended to demonstrate the implementation of connection between between a Ruby on Rails back-end and React front-end. This rails demo app has an API endpoints that can be accessed from front-end.
+This rails app is intended to demonstrate the implementation of a connection between a Ruby on Rails back-end and React front-end. This rails demo app has an API endpoint that can be accessed from the front end.
 
 ## API endpoints
 
